@@ -98,7 +98,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
 
 각자 설치하면 여기에다 버전정보, 다운받은 api 이름, 링크 적어 놓아야 됨. 안그러면 나중에 충돌됨
 
-​		- 나중에 깃허브에 이 md 파일을 올리겠음. 
+​		- instal하신거 장하면됩니다.
 
 예) 
 
