@@ -61,6 +61,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
   * tsconfig.json : 타입스크립트 설정파일
 
   * /src
+    * /Asset : 아이콘 저장하는 
 
     * App.tsx : 메인함수에서 네비게이션 호출
 
