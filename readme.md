@@ -55,13 +55,21 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
 
 
 폴더 구조 (추후 개발하다 불편하면 변경할 것임)
+각 기능별 폴더 안 구조
+- 이렇게 각 이미지도 기능별 폴더안에 다른 폴더로 만들어 분리 
+ex) 
+* /home
+    * Assets
+    * Components
+    * Screens 
+
 
 * fingApp
 
   * tsconfig.json : 타입스크립트 설정파일
 
   * /src
-    * /Asset : 아이콘 저장하는 
+
 
     * App.tsx : 메인함수에서 네비게이션 호출
 
