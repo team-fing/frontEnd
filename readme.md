@@ -63,6 +63,11 @@ ex)
     * Components
     * Screens 
 
+-> 아래 폴더 안의 내용이다.
+
+
+
+
 
 * fingApp
 
