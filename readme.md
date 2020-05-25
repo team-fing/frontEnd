@@ -38,7 +38,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
     npm install --save styled-components
     ```
 
-  * root import
+  * root import & 타입스크립트
 
 ```
 C:\reactwork\Counter>npm install typescript @types/react @types/react-native @types/styled-components babel-plugin-root-import --save-dev
