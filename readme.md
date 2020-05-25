@@ -1,6 +1,7 @@
 # readMe
 
 * 설치 가이드 문서 : https://dev-yakuza.github.io/ko/react-native/install-on-windows/
+* 참고 깃허브 링크 : https://github.com/dev-yakuza/Reactnative
 
 
 
@@ -31,7 +32,22 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.241-b07, mixed mode)
 * 나머지 리엑트 관련한것은 대부분 처음설치할 것이니까 최대한 맞춰주기
 
   
+* * 스타일 컴포넌트
 
+  * ```
+    npm install --save styled-components
+    ```
+
+  * root import
+
+```
+C:\reactwork\Counter>npm install typescript @types/react @types/react-native @types/styled-components babel-plugin-root-import --save-dev
+
+```
+
+
+
+-- 
 
 
 * 안드로이드 sdk : 10.0, 9.0, 8.0 설치하시오
