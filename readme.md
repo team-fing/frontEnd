@@ -82,6 +82,7 @@ C:\reactwork\Counter>npm install typescript @types/react @types/react-native @ty
 
 
 
+```
 src
 ├─Component
 │  ├─BigCatalog
@@ -106,6 +107,7 @@ src
     ├─SignUp
     └─SpaceShared
 
+```
 
 
 
