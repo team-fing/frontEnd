@@ -115,15 +115,36 @@ src
 
 각자 설치하면 여기에다 버전정보, 다운받은 api 이름, 링크 적어 놓아야 됨. 안그러면 나중에 충돌됨
 
-​		- instal하신거 장하면됩니다.
+​		- install하신거 장하면됩니다.
 
-예) 
+네비게이션 관련
 
-| 순번 | api 이름            | 버전 | 링크                                             | 기능            |
-| ---- | ------------------- | ---- | ------------------------------------------------ | --------------- |
-| 1    | react-navigation-v5 |      | https://reactnavigation.org/docs/getting-started | 네비게이션 설정 |
-|      |                     |      |                                                  |                 |
-|      |                     |      |                                                  |                 |
+```
+// 리엑트 네이티브 v5 라이브러리
+npm install --save @react-navigation/native
+// 리액트 네이티브 v5 라이브러리를 사용하기 위한 라이브러리
+npm install --save react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+//스텍 네비
+npm install --save @react-navigation/stack
+// 바텀바
+npm install --save @react-navigation/bottom-tabs
+// 드로어
+npm install --save @react-navigation/drawer
+//탑탭바
+npm install --save @react-navigation/material-top-tabs react-native-tab-view
+
+// 아이콘 설치
+npm install react-native-vector-icons --save
+
+// 타입스크립트를 위한 아이콘 설치
+npm install --save-dev @types/react-native-vector-icons
+
+// 아이콘 라이브러리 연결
+react-native link react-native-vector-icons
+
+npm install --save @react-navigation/material-bottom-tabs react-native-paper
+
+```
 
 
 
