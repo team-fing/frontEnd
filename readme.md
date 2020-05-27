@@ -79,56 +79,33 @@ C:\reactwork\Counter>npm install typescript @types/react @types/react-native @ty
 -> 아래 3명은 다음주까지 메인만들어오기
 
 ## 폴더 구조 (추후 개발하다 불편하면 변경할 것임)
-각 기능별 폴더 안 구조
-- 이렇게 각 이미지도 기능별 폴더안에 다른 폴더로 만들어 분리 
-ex) 
-* /home
-    * Assets
-    * Components
-    * Screens 
-
--> 아래 폴더 안의 내용이다.
 
 
 
+src
+├─Component
+│  ├─BigCatalog
+│  ├─Button
+│  └─IconButton
+├─Context
+│  └─User
+│      └─@types
+└─Screens
+    ├─@types
+    ├─MainHome
+    ├─Meetings
+    ├─Modal
+    ├─MyPage
+    ├─Product
+    │  └─ProductHome
+    │      ├─@type    
+    │      
+    ├─ResetPassword
+    ├─Search
+    ├─SignIn
+    ├─SignUp
+    └─SpaceShared
 
-
-* fingApp
-
-  * tsconfig.json : 타입스크립트 설정파일
-
-  * /src
-
-
-    * App.tsx : 메인함수에서 네비게이션 호출
-
-    * /navigation 
-
-      * /Navigator.tsx : 네비게이션 함수 가지고 있음, 각각의 mainpage 를 호출한다.
-
-    * / home  : 홈페이지
-
-      * mainHome.tsx
-
-    * / vendor : 판매해요 페이지 모음
-
-      * mainVendor.tsx
-
-    * /myPage : 마이페이지 모음
-
-      * mainMyPage.tsx
-
-    * /meetings
-
-      * mainMeetings.tsx
-
-    * /spaceShared
-
-      * mainShared.tsx
-
-        
-
-  * App.tsx 
 
 
 
