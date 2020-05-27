@@ -117,7 +117,7 @@ src
 
 ​		- install하신거 장하면됩니다.
 
-네비게이션 관련
+1) 네비게이션 관련
 
 ```
 // 리엑트 네이티브 v5 라이브러리
@@ -146,5 +146,11 @@ npm install --save @react-navigation/material-bottom-tabs react-native-paper
 
 ```
 
+2) 비동기 저장소 관련
 
+```
+npm install --save @react-native-community/async-storage
+react-native link @react-native-community/async-storage
+
+```
 
