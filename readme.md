@@ -69,19 +69,7 @@ C:\reactwork\Counter>npm install typescript @types/react @types/react-native @ty
 기본 이름 : foogether
 ```
 npm install 
-npm install typescript @types/react @types/react-native @types/styled-components babel-plugin-root-import --save-dev
-npm install --save styled-components
 
-npm install --save @react-native-community/async-storage
-react-native link @react-native-community/async-storage
-
-
-
-npm install --save react-native-splash-screen
-react-native link react-native-splash-screen
-
-
-npm install --save react-gesture-handler react-native-reanimated
 
 
 ```
