@@ -132,3 +132,9 @@ https://github.com/henninghall/react-native-date-picker
 ```
 npm install --save @react-navigation/material-top-tabs react-native-tab-view
 ```
+
+3) 별점
+
+```
+npm install react-native-stars --save
+```
