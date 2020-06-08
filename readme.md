@@ -127,3 +127,8 @@ src
 ```
 https://github.com/henninghall/react-native-date-picker
 ```
+
+2) top-tab
+```
+npm install --save @react-navigation/material-top-tabs react-native-tab-view
+```
